@@ -2,7 +2,7 @@
 app: aerc
 author: Stonks3141
 whiskers:
-  version: 2.0.0
+  version: "^2.9.0"
   matrix:
     - flavor
   filename: 'dist/catppuccin-{{flavor.identifier}}'
